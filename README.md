@@ -31,12 +31,12 @@ Here are all six accuracy detalis, below :
  ![SMOTEOversampling)](/Resources/SMOTE_Oversampling.png)
 
 3. ## Undersampling
-  . Undersampling results: balanced accuracy score is 66.2% overall, the precision is at 99% and the recall is 69%
+  . Undersampling results: balanced accuracy score is 54% overall, the precision is at 99% and the recall is 40%
 
  ![Undersampling)](/Resources/Undersampling.png)
 
 4. ## Combination (Over and Under) Sampling
-  . Combination(over and undersampling) results: balanced accuracy score is 66% the precision is 99% and the recall is 57% overall
+  . Combination(over and undersampling) results: balanced accuracy score is 64% the precision is 99% and the recall is 57% overall
 
   ![Combination_Sampling)](/Resources/Combination_Sampling.png)
 
